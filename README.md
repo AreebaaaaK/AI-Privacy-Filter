@@ -86,19 +86,10 @@ Activate the environment:
 
 venv\Scripts\activate
 
-Future Improvements
-
-AI-based sensitive information detection using machine learning
-
-System tray background service
-
-Desktop notifications for detected sensitive data
-
-Cloud storage protection
-
 Browser extension for screenshot protection
 Install dependencies:
 
 pip install -r requirements.txt
 
 Install Tesseract OCR and set its path inside privacy_engine.py.
+
