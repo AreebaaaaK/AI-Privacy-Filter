@@ -1,0 +1,6 @@
+opencv-python
+pytesseract
+watchdog
+flask
+numpy
+pillow
